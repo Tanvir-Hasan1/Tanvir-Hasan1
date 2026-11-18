@@ -103,7 +103,7 @@
     }
   </style>
 
-  <!-- Shell Container (Borderless, Seamless Background) -->
+  <!-- Shell Container (Black / Deep Dark Background) -->
   <rect width="850" height="150" rx="14" fill="#0B0F19"/>
 
   <!-- Center Stage Glow (Emphasizes Middle Card) -->
@@ -112,7 +112,7 @@
   <!-- Six Step-and-Hold Cards (Borderless) -->
 
     <g class="card-item card-0">
-      <!-- Card Container Box (Completely Borderless) -->
+      <!-- Card Container Box (Borderless Dark Card) -->
       <rect x="-56" y="-60" width="112" height="120" rx="16" fill="#131B2E"/>
       <rect x="-56" y="-60" width="112" height="120" rx="16" fill="url(#card-glare)" opacity="0.12"/>
       
@@ -131,7 +131,7 @@
     
 
     <g class="card-item card-1">
-      <!-- Card Container Box (Completely Borderless) -->
+      <!-- Card Container Box (Borderless Dark Card) -->
       <rect x="-56" y="-60" width="112" height="120" rx="16" fill="#141824"/>
       <rect x="-56" y="-60" width="112" height="120" rx="16" fill="url(#card-glare)" opacity="0.12"/>
       
@@ -148,7 +148,7 @@
     
 
     <g class="card-item card-2">
-      <!-- Card Container Box (Completely Borderless) -->
+      <!-- Card Container Box (Borderless Dark Card) -->
       <rect x="-56" y="-60" width="112" height="120" rx="16" fill="#141824"/>
       <rect x="-56" y="-60" width="112" height="120" rx="16" fill="url(#card-glare)" opacity="0.12"/>
       
@@ -165,7 +165,7 @@
     
 
     <g class="card-item card-3">
-      <!-- Card Container Box (Completely Borderless) -->
+      <!-- Card Container Box (Borderless Dark Card) -->
       <rect x="-56" y="-60" width="112" height="120" rx="16" fill="#0F1E36"/>
       <rect x="-56" y="-60" width="112" height="120" rx="16" fill="url(#card-glare)" opacity="0.12"/>
       
@@ -182,7 +182,7 @@
     
 
     <g class="card-item card-4">
-      <!-- Card Container Box (Completely Borderless) -->
+      <!-- Card Container Box (Borderless Dark Card) -->
       <rect x="-56" y="-60" width="112" height="120" rx="16" fill="#0D1E16"/>
       <rect x="-56" y="-60" width="112" height="120" rx="16" fill="url(#card-glare)" opacity="0.12"/>
       
@@ -199,7 +199,7 @@
     
 
     <g class="card-item card-5">
-      <!-- Card Container Box (Completely Borderless) -->
+      <!-- Card Container Box (Borderless Dark Card) -->
       <rect x="-56" y="-60" width="112" height="120" rx="16" fill="#0A1C14"/>
       <rect x="-56" y="-60" width="112" height="120" rx="16" fill="url(#card-glare)" opacity="0.12"/>
       
