@@ -1,0 +1,6 @@
+# Ignore temporary analysis files
+.temp_analysis/
+.backup/
+*.tmp
+.DS_Store
+Thumbs.db
