@@ -1,6 +1,7 @@
-# Ignore temporary analysis files
+# Ignore temporary analysis and local preview files
 .temp_analysis/
 .backup/
+preview.html
 *.tmp
 .DS_Store
 Thumbs.db
