@@ -41,11 +41,8 @@ Hi, I'm **Tanvir Hasan** — a Full-Stack Software Engineer focused on cross-pla
 
 <div align="center">
 
-<!-- Modern Interactive Tech Icons Grid -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,sqlite,androidstudio,vscode,git,github,postman&theme=dark" alt="Core Tech Stack" />
-</a>
-
+<!-- Animated Infinite Tech Carousel (Time-Based Sliding) -->
+<img src="./assets/tech-carousel.svg" alt="Animated Tech Stack Carousel" width="100%" />
 
 <br/><br/>
 

@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 72" width="100%" height="72">
+  <defs>
+    <linearGradient id="ai-spark-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+
+    <!-- Edge Fade Overlays -->
+    <linearGradient id="fade-left" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B0F19" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0B0F19" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fade-right" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B0F19" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0B0F19" stop-opacity="1"/>
+    </linearGradient>
+
+
+    <!-- React -->
+    <g id="icon-react">
+      <rect width="50" height="50" rx="10" fill="#0E1626" stroke="#1E293B" stroke-width="1"/>
+      <ellipse cx="25" cy="25" rx="14" ry="5.5" fill="none" stroke="#61DAFB" stroke-width="1.3" transform="rotate(30 25 25)"/>
+      <ellipse cx="25" cy="25" rx="14" ry="5.5" fill="none" stroke="#61DAFB" stroke-width="1.3" transform="rotate(90 25 25)"/>
+      <ellipse cx="25" cy="25" rx="14" ry="5.5" fill="none" stroke="#61DAFB" stroke-width="1.3" transform="rotate(150 25 25)"/>
+      <circle cx="25" cy="25" r="2.8" fill="#61DAFB"/>
+    </g>
+
+    <!-- Next.js -->
+    <g id="icon-nextjs">
+      <rect width="50" height="50" rx="10" fill="#000000" stroke="#334155" stroke-width="1"/>
+      <circle cx="25" cy="25" r="16" fill="#000000"/>
+      <path d="M 19 16 L 19 34 M 19 16 L 31 34 M 31 16 L 31 27" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+    </g>
+
+    <!-- TypeScript -->
+    <g id="icon-ts">
+      <rect width="50" height="50" rx="10" fill="#3178C6" stroke="#2563EB" stroke-width="1"/>
+      <text x="25" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="800" fill="#FFFFFF" text-anchor="middle">TS</text>
+    </g>
+
+    <!-- JavaScript -->
+    <g id="icon-js">
+      <rect width="50" height="50" rx="10" fill="#F7DF1E" stroke="#EAB308" stroke-width="1"/>
+      <text x="25" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="800" fill="#000000" text-anchor="middle">JS</text>
+    </g>
+
+    <!-- Tailwind CSS -->
+    <g id="icon-tailwind">
+      <rect width="50" height="50" rx="10" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+      <path d="M 16 26 C 18 20 22 19 25 23 C 27 25 28 27 31 27 C 34 27 36 24 37 22 C 35 28 31 29 28 25 C 26 23 25 21 22 21 C 19 21 17 24 16 26 Z M 13 32 C 15 26 19 25 22 29 C 24 31 25 33 28 33 C 31 33 33 30 34 28 C 32 34 28 35 25 31 C 23 29 22 27 19 27 C 16 27 14 30 13 32 Z" fill="#38BDF8"/>
+    </g>
+
+    <!-- Node.js -->
+    <g id="icon-nodejs">
+      <rect width="50" height="50" rx="10" fill="#0D1A12" stroke="#1E293B" stroke-width="1"/>
+      <polygon points="25,14 36,20 36,32 25,38 14,32 14,20" fill="none" stroke="#5FA04E" stroke-width="2" stroke-linejoin="round"/>
+      <text x="25" y="29" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="700" fill="#5FA04E" text-anchor="middle">NODE</text>
+    </g>
+
+    <!-- Express.js -->
+    <g id="icon-express">
+      <rect width="50" height="50" rx="10" fill="#18181B" stroke="#27272A" stroke-width="1"/>
+      <text x="25" y="31" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">ex</text>
+    </g>
+
+    <!-- MongoDB -->
+    <g id="icon-mongodb">
+      <rect width="50" height="50" rx="10" fill="#0A1810" stroke="#1E293B" stroke-width="1"/>
+      <path d="M 25 13 C 25 13 18 20 18 26 C 18 31 22 35 25 37 C 28 35 32 31 32 26 C 32 20 25 13 25 13 Z" fill="#47A248"/>
+      <path d="M 25 13 L 25 37" stroke="#10B981" stroke-width="1.2"/>
+    </g>
+
+    <!-- SQLite -->
+    <g id="icon-sqlite">
+      <rect width="50" height="50" rx="10" fill="#081A2A" stroke="#1E293B" stroke-width="1"/>
+      <ellipse cx="25" cy="18" rx="12" ry="4" fill="#003B57" stroke="#38BDF8" stroke-width="1"/>
+      <path d="M 13 18 L 13 32 C 13 35 37 35 37 32 L 37 18" fill="none" stroke="#38BDF8" stroke-width="1"/>
+      <path d="M 13 25 C 13 28 37 28 37 25" fill="none" stroke="#38BDF8" stroke-width="0.8"/>
+      <text x="25" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7" font-weight="700" fill="#FFFFFF" text-anchor="middle">SQL</text>
+    </g>
+
+    <!-- Android -->
+    <g id="icon-android">
+      <rect width="50" height="50" rx="10" fill="#0E1E16" stroke="#1E293B" stroke-width="1"/>
+      <!-- Android Head -->
+      <path d="M 17 26 C 17 20 33 20 33 26 Z" fill="#3DDC84"/>
+      <!-- Eyes -->
+      <circle cx="21" cy="23" r="1.2" fill="#FFFFFF"/>
+      <circle cx="29" cy="23" r="1.2" fill="#FFFFFF"/>
+      <!-- Antennas -->
+      <line x1="20" y1="19" x2="18" y2="16" stroke="#3DDC84" stroke-width="1.2" stroke-linecap="round"/>
+      <line x1="30" y1="19" x2="32" y2="16" stroke="#3DDC84" stroke-width="1.2" stroke-linecap="round"/>
+      <!-- Body snippet -->
+      <path d="M 17 28 L 33 28 L 33 34 L 17 34 Z" fill="#3DDC84"/>
+    </g>
+
+    <!-- Google Gemini / AI -->
+    <g id="icon-gemini">
+      <rect width="50" height="50" rx="10" fill="#170F28" stroke="#1E293B" stroke-width="1"/>
+      <!-- Sparkle -->
+      <path d="M 25 14 Q 25 25 36 25 Q 25 25 25 36 Q 25 25 14 25 Q 25 25 25 14 Z" fill="url(#ai-spark-grad)"/>
+    </g>
+
+    <!-- Expo -->
+    <g id="icon-expo">
+      <rect width="50" height="50" rx="10" fill="#000000" stroke="#334155" stroke-width="1"/>
+      <path d="M 17 35 L 25 16 L 33 35 L 29 35 L 25 25 L 21 35 Z" fill="#FFFFFF"/>
+    </g>
+
+    <!-- Git -->
+    <g id="icon-git">
+      <rect width="50" height="50" rx="10" fill="#1C1110" stroke="#1E293B" stroke-width="1"/>
+      <rect x="15" y="15" width="20" height="20" rx="4" fill="#F05032" transform="rotate(45 25 25)"/>
+      <circle cx="22" cy="25" r="2.2" fill="#FFFFFF"/>
+      <circle cx="28" cy="21" r="2.2" fill="#FFFFFF"/>
+      <circle cx="28" cy="29" r="2.2" fill="#FFFFFF"/>
+      <path d="M 22 25 L 28 21 M 28 21 L 28 29" stroke="#FFFFFF" stroke-width="1.4"/>
+    </g>
+
+    <!-- VS Code -->
+    <g id="icon-vscode">
+      <rect width="50" height="50" rx="10" fill="#0A1526" stroke="#1E293B" stroke-width="1"/>
+      <path d="M 33 15 L 24 23 L 18 19 L 15 21 L 18 25 L 15 29 L 18 31 L 24 27 L 33 35 Z" fill="#007ACC"/>
+      <path d="M 33 15 L 33 35 L 24 27 L 24 23 Z" fill="#0065B3"/>
+    </g>
+
+  </defs>
+
+  <style>
+    .track {
+      animation: carousel-scroll 24s linear infinite;
+    }
+    .track:hover {
+      animation-play-state: paused;
+    }
+    @keyframes carousel-scroll {
+      0% {
+        transform: translateX(0px);
+      }
+      100% {
+        transform: translateX(-980px);
+      }
+    }
+  </style>
+
+  <!-- Container Box -->
+  <rect width="850" height="72" rx="12" fill="#0B0F19" stroke="#1E293B" stroke-width="1.2"/>
+
+  <!-- Animated Track -->
+  <g class="track">
+    <use href="#icon-react" x="15" y="11"/>
+    <use href="#icon-nextjs" x="85" y="11"/>
+    <use href="#icon-ts" x="155" y="11"/>
+    <use href="#icon-android" x="225" y="11"/>
+    <use href="#icon-tailwind" x="295" y="11"/>
+    <use href="#icon-nodejs" x="365" y="11"/>
+    <use href="#icon-express" x="435" y="11"/>
+    <use href="#icon-mongodb" x="505" y="11"/>
+    <use href="#icon-sqlite" x="575" y="11"/>
+    <use href="#icon-gemini" x="645" y="11"/>
+    <use href="#icon-expo" x="715" y="11"/>
+    <use href="#icon-js" x="785" y="11"/>
+    <use href="#icon-git" x="855" y="11"/>
+    <use href="#icon-vscode" x="925" y="11"/>
+    <use href="#icon-react" x="995" y="11"/>
+    <use href="#icon-nextjs" x="1065" y="11"/>
+    <use href="#icon-ts" x="1135" y="11"/>
+    <use href="#icon-android" x="1205" y="11"/>
+    <use href="#icon-tailwind" x="1275" y="11"/>
+    <use href="#icon-nodejs" x="1345" y="11"/>
+    <use href="#icon-express" x="1415" y="11"/>
+    <use href="#icon-mongodb" x="1485" y="11"/>
+    <use href="#icon-sqlite" x="1555" y="11"/>
+    <use href="#icon-gemini" x="1625" y="11"/>
+    <use href="#icon-expo" x="1695" y="11"/>
+    <use href="#icon-js" x="1765" y="11"/>
+    <use href="#icon-git" x="1835" y="11"/>
+    <use href="#icon-vscode" x="1905" y="11"/>
+  </g>
+
+  <!-- Edge Fade Overlays (Cinema Carousel Look) -->
+  <rect x="0" y="0" width="70" height="72" rx="12" fill="url(#fade-left)" pointer-events="none"/>
+  <rect x="780" y="0" width="70" height="72" rx="12" fill="url(#fade-right)" pointer-events="none"/>
+</svg>
