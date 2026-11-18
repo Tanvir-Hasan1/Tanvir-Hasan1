@@ -27,11 +27,9 @@
 
 </div>
 
-
 ## 👨‍💻 About Me
 
 Hi, I'm **Tanvir Hasan** — a Full-Stack Software Engineer focused on cross-platform mobile development (**React Native / Expo**), modern web apps (**Next.js / TypeScript**), and **On-Device Edge AI** (running local SLMs with LiteRT-LM & llama.rn).
-
 
 - 🎓 **Education:** BSc in Computer Science and Engineering — United International University (2020–2025).
 - 💼 **Experience:** Software Engineer at **Softvence Agencies** & **SparkTech**.
@@ -39,19 +37,25 @@ Hi, I'm **Tanvir Hasan** — a Full-Stack Software Engineer focused on cross-pla
 
 ---
 
-
 ## ⚡ Tech Stack
 
 <div align="center">
 
+<!-- Modern Interactive Tech Icons Grid -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,sqlite,androidstudio,vscode,git,github,postman&theme=dark" alt="Core Tech Stack" />
+</a>
 
-| Domain             | Technologies                                                                            |
-| :----------------- | :-------------------------------------------------------------------------------------- |
-| **Mobile**         | `React Native` • `Expo` • `Android` • `Zustand` • `MMKV` • `RevenueCat`                 |
-| **Edge AI**        | `LiteRT-LM` • `llama.rn` • `Local SLMs` • `Model Context Protocol (MCP)` • `ML Kit OCR` |
-| **Web & Frontend** | `Next.js` • `React` • `TypeScript` • `JavaScript` • `Tailwind CSS`                      |
-| **Backend & Data** | `Node.js` • `Express.js` • `MongoDB` • `SQLite` • `WebSockets` • `REST APIs`            |
-| **Tools**          | `Git` • `GitHub` • `Android Studio` • `VS Code` • `Postman` • `Swagger`                 |
+
+<br/><br/>
+
+| Domain                    | Core Technologies &amp; Architecture                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **📱 Mobile Development** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white) ![MMKV](https://img.shields.io/badge/MMKV-111827?style=flat-square&logo=fastapi&logoColor=38BDF8) ![RevenueCat](https://img.shields.io/badge/RevenueCat-F2545B?style=flat-square&logo=revenuecat&logoColor=white) |
+| **🧠 On-Device Edge AI**  | ![Google AI Edge](https://img.shields.io/badge/LiteRT--LM-4285F4?style=flat-square&logo=google&logoColor=white) ![llama.rn](https://img.shields.io/badge/llama.rn-7C3AED?style=flat-square&logo=cplusplus&logoColor=white) ![Local SLMs](https://img.shields.io/badge/Local_SLMs-06B6D4?style=flat-square) ![MCP](https://img.shields.io/badge/Model_Context_Protocol-0284C7?style=flat-square) ![Google Gemini](https://img.shields.io/badge/Gemini_API-8E44AD?style=flat-square&logo=googlegemini&logoColor=white) ![ML Kit](https://img.shields.io/badge/ML_Kit_OCR-EA4335?style=flat-square&logo=google&logoColor=white)                                                                                                                                |
+| **🌐 Web &amp; Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)                                                                                                                                                                                           |
+| **⚙️ Backend &amp; Data** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)                                                                                                    |
+| **🛠️ Tools &amp; DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)                                                                                                                                                                                                         |
 
 </div>
 
@@ -59,10 +63,9 @@ Hi, I'm **Tanvir Hasan** — a Full-Stack Software Engineer focused on cross-pla
   <img src="./assets/cyber-divider.svg" width="100%" alt="Divider" />
 </div>
 
-
 ## 🚀 Featured Projects
 
-> *Click on any project card to expand architecture details & engineering highlights.*
+> _Click on any project card to expand architecture details & engineering highlights._
 
 <details open>
   <summary><h3>🤖 1. ThreadAgent — On-Device Mobile AI Agent Platform</h3></summary>
@@ -152,7 +155,6 @@ Hi, I'm **Tanvir Hasan** — a Full-Stack Software Engineer focused on cross-pla
 <div align="center">
   <img src="./assets/cyber-divider.svg" width="100%" alt="Divider" />
 </div>
-
 
 ## 📊 GitHub Activity
 
